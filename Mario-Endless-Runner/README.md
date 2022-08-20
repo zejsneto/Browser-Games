@@ -7,7 +7,7 @@ A endless runner web game, where you play as Mario and hava to jump pipes, devel
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo](https://zejsneto.github.io/Mario-Endless-Runner)<br>
+Link: [View Demo](https://zejsneto.github.io/Browser-Games/Mario-Endless-Runner/)<br>
 
 ---
 
